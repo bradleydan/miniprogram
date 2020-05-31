@@ -1,0 +1,2 @@
+<view> Hello {{name}}</view>
+<view>age:{{age}}</view>
